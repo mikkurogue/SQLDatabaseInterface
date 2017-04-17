@@ -3708,10 +3708,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\admin\\documents\\visual studio 2017\\Projects\\SQLDatabaseInterface\\SQLDatabaseInterface\\SQLDatabaseInterface.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Documents\\SQLDatabaseInterface\\SQLDatabaseInterface\\SQLDatabaseInterface.csproj",
       "projectName": "SQLDatabaseInterface",
-      "projectPath": "c:\\users\\admin\\documents\\visual studio 2017\\Projects\\SQLDatabaseInterface\\SQLDatabaseInterface\\SQLDatabaseInterface.csproj",
-      "outputPath": "c:\\users\\admin\\documents\\visual studio 2017\\Projects\\SQLDatabaseInterface\\SQLDatabaseInterface\\obj\\",
+      "projectPath": "C:\\Users\\Admin\\Documents\\SQLDatabaseInterface\\SQLDatabaseInterface\\SQLDatabaseInterface.csproj",
+      "outputPath": "C:\\Users\\Admin\\Documents\\SQLDatabaseInterface\\SQLDatabaseInterface\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netstandard1.4"

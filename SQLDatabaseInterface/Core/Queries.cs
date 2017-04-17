@@ -79,5 +79,13 @@ namespace SQLDatabaseInterface.Core
         {
             return $"DELETE FROM {table} WHERE {idcolumn} = '{id}'";
         }
+
+        public string Update(string table, string idcolumn, int id, string[] columns, string[] values)
+        {
+
+            string Update = $"UPDATE {table} SET {columns[0]} = '{values[0]}' WHERE {idcolumn} = {id}";
+
+            return Update;
+        }
     }
 }

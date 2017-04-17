@@ -31,7 +31,7 @@ namespace SQLDatabaseInterface
         /// <param name="user"></param>
         /// <param name="pass"></param>
         /// <returns></returns>
-        public string GenerateConnection(string host, string dbname, string user, string pass)
+        public string GenerateSQLConnection(string host, string dbname, string user, string pass)
         {
             host = Host;
             dbname = DatabaseName;

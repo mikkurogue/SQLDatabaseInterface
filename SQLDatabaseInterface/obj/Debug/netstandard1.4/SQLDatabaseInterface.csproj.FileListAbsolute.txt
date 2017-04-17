@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\SQLDatabaseInterface\SQLDatabaseInterface\bin\Debug\netstandard1.4\SQLDatabaseInterface.deps.json
+C:\Users\Admin\Documents\SQLDatabaseInterface\SQLDatabaseInterface\bin\Debug\netstandard1.4\SQLDatabaseInterface.dll
+C:\Users\Admin\Documents\SQLDatabaseInterface\SQLDatabaseInterface\bin\Debug\netstandard1.4\SQLDatabaseInterface.pdb
+C:\Users\Admin\Documents\SQLDatabaseInterface\SQLDatabaseInterface\obj\Debug\netstandard1.4\SQLDatabaseInterface.AssemblyInfo.cs
+C:\Users\Admin\Documents\SQLDatabaseInterface\SQLDatabaseInterface\obj\Debug\netstandard1.4\SQLDatabaseInterface.dll
+C:\Users\Admin\Documents\SQLDatabaseInterface\SQLDatabaseInterface\obj\Debug\netstandard1.4\SQLDatabaseInterface.pdb
