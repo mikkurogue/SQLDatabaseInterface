@@ -1,0 +1,9 @@
+C:\Users\Slav Super Star\Desktop\SQLDatabaseInterface\Sql.Database.Interface.Core\bin\Debug\netcoreapp2.1\Sql.Database.Interface.Core.deps.json
+C:\Users\Slav Super Star\Desktop\SQLDatabaseInterface\Sql.Database.Interface.Core\bin\Debug\netcoreapp2.1\Sql.Database.Interface.Core.dll
+C:\Users\Slav Super Star\Desktop\SQLDatabaseInterface\Sql.Database.Interface.Core\bin\Debug\netcoreapp2.1\Sql.Database.Interface.Core.pdb
+C:\Users\Slav Super Star\Desktop\SQLDatabaseInterface\Sql.Database.Interface.Core\obj\Debug\netcoreapp2.1\Sql.Database.Interface.Core.csprojAssemblyReference.cache
+C:\Users\Slav Super Star\Desktop\SQLDatabaseInterface\Sql.Database.Interface.Core\obj\Debug\netcoreapp2.1\Sql.Database.Interface.Core.csproj.CoreCompileInputs.cache
+C:\Users\Slav Super Star\Desktop\SQLDatabaseInterface\Sql.Database.Interface.Core\obj\Debug\netcoreapp2.1\Sql.Database.Interface.Core.AssemblyInfoInputs.cache
+C:\Users\Slav Super Star\Desktop\SQLDatabaseInterface\Sql.Database.Interface.Core\obj\Debug\netcoreapp2.1\Sql.Database.Interface.Core.AssemblyInfo.cs
+C:\Users\Slav Super Star\Desktop\SQLDatabaseInterface\Sql.Database.Interface.Core\obj\Debug\netcoreapp2.1\Sql.Database.Interface.Core.dll
+C:\Users\Slav Super Star\Desktop\SQLDatabaseInterface\Sql.Database.Interface.Core\obj\Debug\netcoreapp2.1\Sql.Database.Interface.Core.pdb
