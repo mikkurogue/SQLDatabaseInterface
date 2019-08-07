@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Slav Super Star\\Desktop\\SQLDatabaseInterface\\Sql.Database.Interface.Core\\Sql.Database.Interface.Core.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Slav Super Star\\Desktop\\SQLDatabaseInterface\\Sql.Database.Interface.Core\\Sql.Database.Interface.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Slav Super Star\\Desktop\\SQLDatabaseInterface\\Sql.Database.Interface.Core\\Sql.Database.Interface.Core.csproj",
+        "projectName": "Sql.Database.Interface.Core",
+        "projectPath": "C:\\Users\\Slav Super Star\\Desktop\\SQLDatabaseInterface\\Sql.Database.Interface.Core\\Sql.Database.Interface.Core.csproj",
+        "packagesPath": "C:\\Users\\Slav Super Star\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Slav Super Star\\Desktop\\SQLDatabaseInterface\\Sql.Database.Interface.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Slav Super Star\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
